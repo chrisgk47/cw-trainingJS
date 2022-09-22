@@ -11,7 +11,7 @@
 function disemvowel(str) {
     return str;
   }
-  //mysolution
+  //My Solution
   function disemvowel(str) {
     return str.replace(/[aeiou]/ig, '');
   }
